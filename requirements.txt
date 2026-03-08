@@ -1,0 +1,9 @@
+pennylane
+qiskit
+cirq
+numpy
+pandas
+scikit-learn
+matplotlib
+gradio
+fastapi
